@@ -801,3 +801,7 @@ input {
   cursor: pointer;
   opacity: 0.8;
 }
+
+.chat__options {
+  display: none !important;
+}
